@@ -5,7 +5,10 @@ package com.bd.mylibrary;
  */
 
 public class TestJitRead {
-    static void readAA() {
+    public static void readAA() {
         System.out.println("YEs...");
+    }
+    public static void readBB() {
+        System.out.println("yes nice!!");
     }
 }
